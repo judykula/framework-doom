@@ -35,6 +35,13 @@
             <artifactId>rubick</artifactId>
             <version>1.0.0-SNAPSHOT</version>
         </dependency>
+
+        <!-- framework-config -->
+        <dependency>
+            <groupId>com.jwy</groupId>
+            <artifactId>karl</artifactId>
+            <version>1.0.0-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
     <build>
